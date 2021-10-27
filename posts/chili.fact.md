@@ -1,0 +1,1 @@
+Here is the curriculum of the OR program: [here](https://www.ieor.columbia.edu/masters/operations-research/curriculum)
